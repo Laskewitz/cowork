@@ -14,6 +14,9 @@ Resources for the 🤖 Copilot Cowork: Work together with AI, Get Things Done se
 - 📄 [Get started with Copilot Cowork](https://learn.microsoft.com/microsoft-365/copilot/cowork/get-started)
 - 📄 [Use Copilot Cowork](https://learn.microsoft.com/microsoft-365/copilot/cowork/use-cowork)
 - 📄 [Copilot Cowork common questions](https://learn.microsoft.com/microsoft-365/copilot/cowork/cowork-faq)
+
+### 🧪 Get Started with Hands On Labs
+
 - 🎓 [Copilot Cowork Collective](https://aka.ms/cowork-collective)
 
 ### 🛠️ Skills
