@@ -4,6 +4,10 @@ Resources for the 🤖 Copilot Cowork: Work together with AI, Get Things Done se
 
 ## 📚 Resources
 
+### 🎤 Session Materials
+
+- 📊 [Copilot Cowork deck](assets/Copilot%20Cowork.pptx)
+
 ### 🚀 Get Started
 
 - 📄 [Copilot Cowork overview](https://learn.microsoft.com/microsoft-365/copilot/cowork/)
