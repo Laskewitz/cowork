@@ -18,6 +18,14 @@ Resources for the 🤖 Copilot Cowork: Work together with AI, Get Things Done se
 
 ### 🛠️ Skills
 
+Cowork uses specialized skills to carry out tasks. There are two kinds:
+
+- **Out-of-the-box skills** — Built into Cowork: Word, Excel, PowerPoint, PDF, Email, Scheduling, Calendar Management, Meetings, Daily Briefing, Enterprise Search, Communications, Deep Research, and Adaptive Cards.
+- **Custom skills** — Skills you create yourself and store in `/Documents/Cowork/skills/` on your OneDrive. Cowork discovers them automatically (up to 50 per user).
+
+Learn more:
+
+- 📄 [Cowork skills reference](https://learn.microsoft.com/microsoft-365/copilot/cowork/use-cowork#cowork-skills)
 - 🌐 [Skills.sh - Open Agent Skills Ecosystem](https://skills.sh)
 
 ### 🔌 Plugins
