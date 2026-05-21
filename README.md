@@ -4,12 +4,23 @@ Resources for the 🤖 Copilot Cowork: Work together with AI, Get Things Done se
 
 ## 📚 Resources
 
+### 🚀 Get Started
+
 - 📄 [Copilot Cowork overview](https://learn.microsoft.com/microsoft-365/copilot/cowork/)
 - 📄 [Get started with Copilot Cowork](https://learn.microsoft.com/microsoft-365/copilot/cowork/get-started)
 - 📄 [Use Copilot Cowork](https://learn.microsoft.com/microsoft-365/copilot/cowork/use-cowork)
 - 📄 [Copilot Cowork common questions](https://learn.microsoft.com/microsoft-365/copilot/cowork/cowork-faq)
 - 🎓 [Copilot Cowork Collective](https://aka.ms/cowork-collective)
-- 🛠️ [Skills.sh - Open Agent Skills Ecosystem](https://skills.sh)
+
+### 🛠️ Skills
+
+- 🌐 [Skills.sh - Open Agent Skills Ecosystem](https://skills.sh)
+
+### 🔌 Plugins
+
+- 📄 [Copilot Cowork plugins](https://learn.microsoft.com/microsoft-365/copilot/cowork/cowork-plugins)
+- 📄 [Available plugins for Cowork](https://learn.microsoft.com/microsoft-365/copilot/cowork/cowork-available-plugins)
+- 📄 [Build plugins for Cowork](https://learn.microsoft.com/microsoft-365/copilot/cowork/cowork-plugin-development)
 
 ## 👨‍💻 About the Author
 
