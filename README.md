@@ -36,6 +36,7 @@ Learn more:
 - 📄 [Copilot Cowork plugins](https://learn.microsoft.com/microsoft-365/copilot/cowork/cowork-plugins)
 - 📄 [Available plugins for Cowork](https://learn.microsoft.com/microsoft-365/copilot/cowork/cowork-available-plugins)
 - 📄 [Build plugins for Cowork](https://learn.microsoft.com/microsoft-365/copilot/cowork/cowork-plugin-development)
+- 📚 [Microsoft Learn for Cowork plugin](https://github.com/Laskewitz/learn-for-cowork)
 
 ## 👨‍💻 About the Author
 
