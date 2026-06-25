@@ -38,7 +38,7 @@ Learn more:
 - 📄 [Build plugins for Cowork](https://learn.microsoft.com/microsoft-365/copilot/cowork/cowork-plugin-development)
 - 📚 [Microsoft Learn for Cowork plugin](https://github.com/Laskewitz/learn-for-cowork)
 
-## 👨‍💻 About the Author
+## 👨‍💻 About the Authors
 
 ### Daniel Laskewitz
 
@@ -49,3 +49,12 @@ Learn more:
 - **[LinkedIn](https://linkedin.com/in/laskewitz)**
 - **[GitHub](https://github.com/Laskewitz)**
 - **[YouTube](https://youtube.com/@daniellaskewitz)**
+
+### Albert-Jan Schot
+
+**Albert-Jan Schot** is a senior cloud architect and CTO at Blis Digital, a Microsoft MVP, and a FastTrack Recognized Solution Architect for the Power Platform, and a contributor to this collection of Copilot Cowork resources.
+
+#### Connect with Albert-Jan
+
+- **[LinkedIn](https://www.linkedin.com/in/albertjanschot/)**
+- **[GitHub](https://github.com/appieschot)**
